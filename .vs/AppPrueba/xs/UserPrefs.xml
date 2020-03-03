@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{9DE514AB-CD0D-416E-95BC-AB871E697318}|Default">
+  <MonoDevelop.Ide.ItemProperties.AppPrueba.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppPrueba/Views/CarroView.xaml.cs">
+    <Files>
+      <File FileName="AppPrueba/Models/NotificationObject.cs" Line="8" Column="6" IsPinned="True" />
+      <File FileName="AppPrueba/App.xaml.cs" Line="13" Column="66" IsPinned="True" />
+      <File FileName="AppPrueba/Views/MyView.cs" Line="1" Column="1" />
+      <File FileName="AppPrueba/Views/CarroView.xaml.cs" Line="7" Column="2" />
+      <File FileName="AppPrueba/Views/CarroView.xaml" Line="16" Column="63" />
+      <File FileName="AppPrueba/VIewModels/CarroViewModel.cs" Line="41" Column="1" />
+      <File FileName="AppPrueba/Models/CarroModel.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AppPrueba" expanded="True">
+            <Node name="AppPrueba" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="VIewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="CarroView.xaml" expanded="True">
+                  <Node name="CarroView.xaml.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AppPrueba FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/germancaycedo/Projects/AppPrueba/AppPrueba/VIewModels/CarroViewModel.cs" relfile="AppPrueba/VIewModels/CarroViewModel.cs" line="37" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AppPrueba.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.AB3126E5-7B6B-4831-A0D0-BC5FCE36E6C5" />
+</Properties>

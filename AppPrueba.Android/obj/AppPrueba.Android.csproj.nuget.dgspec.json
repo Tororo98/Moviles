@@ -1,0 +1,48 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/germancaycedo/Projects/AppPrueba/AppPrueba.Android/AppPrueba.Android.csproj": {}
+  },
+  "projects": {
+    "/Users/germancaycedo/Projects/AppPrueba/AppPrueba.Android/AppPrueba.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/germancaycedo/Projects/AppPrueba/AppPrueba.Android/AppPrueba.Android.csproj",
+        "projectName": "AppPrueba.Android",
+        "projectPath": "/Users/germancaycedo/Projects/AppPrueba/AppPrueba.Android/AppPrueba.Android.csproj",
+        "packagesPath": "/Users/germancaycedo/.nuget/packages/",
+        "outputPath": "/Users/germancaycedo/Projects/AppPrueba/AppPrueba.Android/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/germancaycedo/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.3.0.908675, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
