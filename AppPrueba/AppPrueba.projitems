@@ -32,6 +32,8 @@
     </Compile>
     <Compile Include="$(MSBuildThisFileDirectory)Services\Handles\MemoryDataHandler.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Services\Database\DataBase.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Services\Database\IServiceDataBase.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Services\Database\IUserDataBase.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="$(MSBuildThisFileDirectory)Models\" />
