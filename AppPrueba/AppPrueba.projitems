@@ -30,10 +30,15 @@
     <Compile Include="$(MSBuildThisFileDirectory)Views\CarroView.xaml.cs">
       <DependentUpon>CarroView.xaml</DependentUpon>
     </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Services\Handles\MemoryDataHandler.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Services\Database\DataBase.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="$(MSBuildThisFileDirectory)Models\" />
     <Folder Include="$(MSBuildThisFileDirectory)VIewModels\" />
     <Folder Include="$(MSBuildThisFileDirectory)Views\" />
+    <Folder Include="$(MSBuildThisFileDirectory)Services\" />
+    <Folder Include="$(MSBuildThisFileDirectory)Services\Handles\" />
+    <Folder Include="$(MSBuildThisFileDirectory)Services\Database\" />
   </ItemGroup>
 </Project>

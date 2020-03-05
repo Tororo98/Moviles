@@ -36,7 +36,8 @@ namespace AppPrueba.VIewModels
             ActualizarDatosCommand = new Command(() => ActualizarDatos(), () => true);
             if (Application.Current.Properties.ContainsKey("ValorGuardado"))
             {
-                DatoGuardado = (int)Application.Current.Properties["ValorGuardado"];
+                var datoGuardado = (int)Application.Current.Properties["ValorGuardado"];
+                DatoGuardado = Convert.ToInt32(datoGuardado);
             }
         }
 
