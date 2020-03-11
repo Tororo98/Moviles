@@ -13,7 +13,7 @@
 namespace AppPrueba {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/germancaycedo/Projects/AppPrueba/AppPrueba/App.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\sebas\\Desktop\\8v0\\AppPrueba\\AppPrueba\\App.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]

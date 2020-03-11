@@ -13,7 +13,7 @@
 namespace AppPrueba.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("/Users/germancaycedo/Projects/AppPrueba/AppPrueba/Views/CarroView.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\sebas\\Desktop\\8v0\\AppPrueba\\AppPrueba\\Views\\CarroView.xaml")]
     public partial class CarroView : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
